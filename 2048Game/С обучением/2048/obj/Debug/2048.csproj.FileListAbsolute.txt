@@ -1,0 +1,37 @@
+C:\Users\torop\Downloads\MiniGame2048-C-sharp-master\MiniGame2048-C-sharp-master\2048\bin\Debug\Physics.exe.config
+C:\Users\torop\Downloads\MiniGame2048-C-sharp-master\MiniGame2048-C-sharp-master\2048\bin\Debug\Physics.exe
+C:\Users\torop\Downloads\MiniGame2048-C-sharp-master\MiniGame2048-C-sharp-master\2048\bin\Debug\Physics.pdb
+C:\Users\torop\Downloads\MiniGame2048-C-sharp-master\MiniGame2048-C-sharp-master\2048\obj\Debug\2048.csproj.AssemblyReference.cache
+C:\Users\torop\Downloads\MiniGame2048-C-sharp-master\MiniGame2048-C-sharp-master\2048\obj\Debug\2048.csproj.SuggestedBindingRedirects.cache
+C:\Users\torop\Downloads\MiniGame2048-C-sharp-master\MiniGame2048-C-sharp-master\2048\obj\Debug\Physics.GameForm.resources
+C:\Users\torop\Downloads\MiniGame2048-C-sharp-master\MiniGame2048-C-sharp-master\2048\obj\Debug\Physics.Menu.resources
+C:\Users\torop\Downloads\MiniGame2048-C-sharp-master\MiniGame2048-C-sharp-master\2048\obj\Debug\Physics.Notifications.resources
+C:\Users\torop\Downloads\MiniGame2048-C-sharp-master\MiniGame2048-C-sharp-master\2048\obj\Debug\2048.Properties.Resources.resources
+C:\Users\torop\Downloads\MiniGame2048-C-sharp-master\MiniGame2048-C-sharp-master\2048\obj\Debug\2048.csproj.GenerateResource.cache
+C:\Users\torop\Downloads\MiniGame2048-C-sharp-master\MiniGame2048-C-sharp-master\2048\obj\Debug\2048.csproj.CoreCompileInputs.cache
+C:\Users\torop\Downloads\MiniGame2048-C-sharp-master\MiniGame2048-C-sharp-master\2048\obj\Debug\Physics.exe
+C:\Users\torop\Downloads\MiniGame2048-C-sharp-master\MiniGame2048-C-sharp-master\2048\obj\Debug\Physics.pdb
+C:\Users\user.A403PWS9\Downloads\2048Game\С обучением\2048\bin\Debug\Physics.exe.config
+C:\Users\user.A403PWS9\Downloads\2048Game\С обучением\2048\bin\Debug\Physics.exe
+C:\Users\user.A403PWS9\Downloads\2048Game\С обучением\2048\bin\Debug\Physics.pdb
+C:\Users\user.A403PWS9\Downloads\2048Game\С обучением\2048\obj\Debug\2048.csproj.AssemblyReference.cache
+C:\Users\user.A403PWS9\Downloads\2048Game\С обучением\2048\obj\Debug\Physics.GameForm.resources
+C:\Users\user.A403PWS9\Downloads\2048Game\С обучением\2048\obj\Debug\Physics.Menu.resources
+C:\Users\user.A403PWS9\Downloads\2048Game\С обучением\2048\obj\Debug\Physics.Notifications.resources
+C:\Users\user.A403PWS9\Downloads\2048Game\С обучением\2048\obj\Debug\2048.Properties.Resources.resources
+C:\Users\user.A403PWS9\Downloads\2048Game\С обучением\2048\obj\Debug\2048.csproj.GenerateResource.cache
+C:\Users\user.A403PWS9\Downloads\2048Game\С обучением\2048\obj\Debug\2048.csproj.CoreCompileInputs.cache
+C:\Users\user.A403PWS9\Downloads\2048Game\С обучением\2048\obj\Debug\Physics.exe
+C:\Users\user.A403PWS9\Downloads\2048Game\С обучением\2048\obj\Debug\Physics.pdb
+D:\Поликек младший\3 курс\6-й семестр\КУРСОВОЙ ПРОЕКТ\2048Game(+)\С обучением\2048\bin\Debug\Physics.exe.config
+D:\Поликек младший\3 курс\6-й семестр\КУРСОВОЙ ПРОЕКТ\2048Game(+)\С обучением\2048\bin\Debug\Physics.exe
+D:\Поликек младший\3 курс\6-й семестр\КУРСОВОЙ ПРОЕКТ\2048Game(+)\С обучением\2048\bin\Debug\Physics.pdb
+D:\Поликек младший\3 курс\6-й семестр\КУРСОВОЙ ПРОЕКТ\2048Game(+)\С обучением\2048\obj\Debug\2048.csproj.AssemblyReference.cache
+D:\Поликек младший\3 курс\6-й семестр\КУРСОВОЙ ПРОЕКТ\2048Game(+)\С обучением\2048\obj\Debug\Physics.GameForm.resources
+D:\Поликек младший\3 курс\6-й семестр\КУРСОВОЙ ПРОЕКТ\2048Game(+)\С обучением\2048\obj\Debug\Physics.Menu.resources
+D:\Поликек младший\3 курс\6-й семестр\КУРСОВОЙ ПРОЕКТ\2048Game(+)\С обучением\2048\obj\Debug\Physics.Notifications.resources
+D:\Поликек младший\3 курс\6-й семестр\КУРСОВОЙ ПРОЕКТ\2048Game(+)\С обучением\2048\obj\Debug\2048.Properties.Resources.resources
+D:\Поликек младший\3 курс\6-й семестр\КУРСОВОЙ ПРОЕКТ\2048Game(+)\С обучением\2048\obj\Debug\2048.csproj.GenerateResource.cache
+D:\Поликек младший\3 курс\6-й семестр\КУРСОВОЙ ПРОЕКТ\2048Game(+)\С обучением\2048\obj\Debug\2048.csproj.CoreCompileInputs.cache
+D:\Поликек младший\3 курс\6-й семестр\КУРСОВОЙ ПРОЕКТ\2048Game(+)\С обучением\2048\obj\Debug\Physics.exe
+D:\Поликек младший\3 курс\6-й семестр\КУРСОВОЙ ПРОЕКТ\2048Game(+)\С обучением\2048\obj\Debug\Physics.pdb
